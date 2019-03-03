@@ -1,5 +1,5 @@
 ## Overview
-Google Earth plugin for Commercial Real Estate professionals. Will present information about any property in
+Google Earth plugin for Commercial Real Estate professionals. Presents information about any property in
 Miami-Dade County using a map-based interface
 
 ### Features
@@ -59,11 +59,11 @@ parcels present in the condo/coop is presented, allowing easy access to each one
 ## Views
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Vertical%20panorama.jpg" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Property%20information.jpg" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Parcel%20Layout.jpg" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Assessment%20and%20value.jpg" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Legal%20description%20and%20Sales.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Vertical%20panorama.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Property%20information.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Parcel%20Layout.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Assessment%20and%20value.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Legal%20description%20and%20Sales.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Vertical View</td>
@@ -73,9 +73,9 @@ parcels present in the condo/coop is presented, allowing easy access to each one
     <td>Legal Description and Sales</td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Horizontal%20panorama.jpg" width="300"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Additional%20Information.jpg" width="150"/></td>
-    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication/master/Condo%20unit%20list.jpg" width="150"/></td>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Horizontal%20panorama.jpg" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Additional%20Information.jpg" width="150"/></td>
+    <td><img src="https://raw.githubusercontent.com/luigimercurio/GEApplication-README/master/Condo%20unit%20list.jpg" width="150"/></td>
     <td>&nbsp;</td>
   </tr>
   <tr>
